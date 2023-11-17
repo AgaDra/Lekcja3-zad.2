@@ -1,0 +1,15 @@
+.title-page {
+  height: 900px;
+  width: 500px;
+  background-color: darkgreen;
+  margin-bottom: 100px;
+}
+.title {
+  padding-top: 400px;
+  text-align: center;
+  color: gold;
+}
+.autor {
+  padding-bottom: 400px;
+  text-align: center;
+}
