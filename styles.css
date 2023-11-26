@@ -1,15 +1,22 @@
 .title-page {
   height: 900px;
   width: 500px;
-  background-color: darkgreen;
-  margin-bottom: 100px;
+  background-color: rgb(162, 122, 148);
+  font-family: Cambria;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  border: 10px solid rgb(34, 34, 63);
 }
 .title {
-  padding-top: 400px;
-  text-align: center;
-  color: gold;
+  font-size: 50px;
+  color: rgb(64, 64, 96);
+  margin-bottom: 100px;
 }
 .autor {
-  padding-bottom: 400px;
-  text-align: center;
+  font-size: 30px;
+  color: rgb(230, 230, 240);
 }
