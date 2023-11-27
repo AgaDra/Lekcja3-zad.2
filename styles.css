@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 .title-page {
   height: 900px;
   width: 500px;
